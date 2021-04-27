@@ -1,0 +1,23 @@
+body {
+    background-color: #ffe6e6;
+}
+
+h3 {
+    color: #b30008;
+}
+
+label {
+    font-size: 1em;
+    color: #bf282e;
+}
+
+.checkbox,
+.radio {
+    border-radius: 10px;
+    background: white;
+}
+
+.checkbox label,
+.radio label {
+    margin: 10px;
+}
